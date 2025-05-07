@@ -41,7 +41,3 @@ public class AddVisitDto
     public List<ServiceDto> services { get; set; }
 }
 
-public class ServiceAddDto
-{
-    public 
-}
